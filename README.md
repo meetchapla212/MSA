@@ -3,8 +3,8 @@
 ## Steps to create MSA
 1. Create projects for each module.
      1. Customer Module Path: ./Customer
-     2. Order Module Path: ./Customer
-     3. Product Module Path: ./Customer
+     2. Order Module Path: ./Order
+     3. Product Module Path: ./Product
      
 2. Create API Layer Server project to redirect request to the module based on path.
      1. API Layer Server Path: ./Server
